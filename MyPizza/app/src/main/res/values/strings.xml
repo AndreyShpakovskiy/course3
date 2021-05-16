@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">MyPizza</string>
+    <string name="cart">Корзина</string>
+    <string name="products">MyPizza</string>
+    <string name="buy">Купить</string>
+
+    <string name="cart.success.message" formatted="false">Вы заказали %s продуктов на сумму $%s</string>
+    <string name="dollars.format" formatted="false">$%s</string>
+</resources>
